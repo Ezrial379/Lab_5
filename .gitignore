@@ -1,0 +1,14 @@
+.vs/*
+Lab_5.sln
+Task_1/Properties/*
+Task_1/obj/Debug/*
+Task_1/App.config
+Task_1/bin/Debug/*
+Task_2/Properties/*
+Task_2/obj/Debug/*
+Task_2/App.config
+Task_2/bin/Debug/*
+Task_3/Properties/*
+Task_3/obj/Debug/*
+Task_3/App.config
+Task_3/bin/Debug/*

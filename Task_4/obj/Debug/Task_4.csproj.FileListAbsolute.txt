@@ -1,0 +1,8 @@
+C:\Юра\Univers\Lab_5\Task_4\bin\Debug\Task_4.exe.config
+C:\Юра\Univers\Lab_5\Task_4\bin\Debug\Task_4.exe
+C:\Юра\Univers\Lab_5\Task_4\bin\Debug\Task_4.pdb
+C:\Юра\Univers\Lab_5\Task_4\obj\Debug\Task_4.csproj.AssemblyReference.cache
+C:\Юра\Univers\Lab_5\Task_4\obj\Debug\Task_4.csproj.SuggestedBindingRedirects.cache
+C:\Юра\Univers\Lab_5\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+C:\Юра\Univers\Lab_5\Task_4\obj\Debug\Task_4.exe
+C:\Юра\Univers\Lab_5\Task_4\obj\Debug\Task_4.pdb
