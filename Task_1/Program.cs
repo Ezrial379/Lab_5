@@ -14,10 +14,10 @@ namespace Task_2
 
             MyList<int> mylist = new MyList<int>(5);
             mylist[0] = 1;
-            Console.WriteLine("Емкость списка: {0} элемент(-ов)", mylist.Capacity);
-            Console.WriteLine("Список фактически содержит: {0} элемент(-ов)", mylist.Count);
+            Console.WriteLine("Ємність: {0} елемент(-ів)", mylist.Capacity);
+            Console.WriteLine("Список фактично має: {0} елемент(-ів)", mylist.Count);
             mylist.Add(15);
-            Console.WriteLine("Емкость списка: {0} элемент(-ов)", mylist.Capacity);
+            Console.WriteLine("Ємність списку після: {0} елемент(-ів)", mylist.Capacity);
 
 
         }
@@ -57,7 +57,6 @@ namespace Task_2
 
         }
 
-        //  Возвращает число элементов, которые фактически содержатся в коллекции MyList<T>.
 
         public int Count
         {
